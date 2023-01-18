@@ -1,0 +1,69 @@
+* subiecte pt 60 de min
+* Sa avem hartii (5 foi) si pixuri.
+* examen de la 17. pana la ora 20 sa se termine totu
+* prezinta subiectele la inceput. dmna gifu prezinta daca vrea la inceput sau mai tz. o discutam cu profa si ii spunem si profului.
+* subiecte posibile:
+Capitol 1: mai important 
+1. structura lucrarii stiintifice. (titlu, abstract, date si metode, rezultate, discutie, concluzie, referinte).
+nu e sigur ca aveti priza. nu e sigur ca aveti internet. sa aveti foldere in care aveti resurse.
+2. bazand pe lucrarea pe care am facut-o, prezinti abstractul de la lucrarea ta. Ce trasaturi are?
+Sa scrii un abstract scurt, te poti baza pe sintezele tale/pe lucrarea ta. Poti scrie un text care se bazeaza pe ele. 
+Nu accepta un abstract de la alte lucrari stiintifice care nu sunt ale voastre.
+Ce trasaturi are abstractu in general (proprietati, ce este). Daca cere un exemplu, scriem ceva de la abstractele noastre.
+3. Metodologii si materiale. 
+Capitol specific pt lucrari stiintifice. Nu pt lit review. Chiar si in cazul unui lit review exista in cazul in care se prezinta
+ce baze de date s-a utilizat pt sinteza si ce metoda s-a utilizat pt clasificarea lucrarilor. 
+Daca se cere sa prezentam, at tb sa stim despre ce e vorba aici. 
+Se prezinta materialele pe care se folosesc la cercetare dar si metodele de analiza. 
+4. Rezultate
+Pt lucr. stiintifice se prezinta rez.. in timpul cercetarii care s-a facut. Nu se dezbat ideile. Decat daca e "rezults and discussions". 
+Pun toate tabelele, datele care urmeaza a fi analizate, sa se extraga o concluzie. Dar nu aici se prezinta concluziile.
+5. Discutie
+Pot sa apara si in lit. review. Aici se discuta/dezbat/extrag niste idei care sunt extrase din lucrarile analizate. 
+Daca e scientific lit. atunci analizam datele si discutam/comporam rezultatele.
+6. concluzie
+discutam progresul si care ar fi traiectoriile cercetarii in domeniul respectiv.
+concluzia se bazeaza pe rezultatele si discutiile scrise deja. 
+se prezinta ce s-a realizat, cum, cat de bune sunt. Se sumarizeaza rezultatul lucrarii. 
+7. Referintele
+sunt asemenea atat la lit. review cat si scientific rev..
+La lit. rev. sunt chiar si 100 de referinte. 
+la sci. lit. sunt in jur de 10 (real).
+============
+Capitol 2: mai putin important 
+vorbim de jurnale si conferinte
+care e metoda de evaluare la jurnale stiintifice/ conferinte. 
+ce e factoru de impact?
+ce e indicele hiersh (daca se scrie asa..)?
+Clasificare: bazele de date despre conferinte si lucrarile stiintifice (databases:web of science, scopus, google scholar).
+tb sa prezentam ce este web of science, scopus, google scholar. Google ne este prieten, putem sa cautam pe net sau in resursele noastre.
+Cre sunt categoriile de conferinte ABCD, care sunt la jurnale.
+Sa stim ce e lista rosu/galben (unde se aplica: la conferinte sau la jurnale). Cum e constituita (sub ramuri de stiinta si submarumri).
+Cum clasificam o lucrare aparuta in vreun jurnal. 
+Daca ne cere un jurnal cu scor mare, avem referat.
+Ce e citarea? Ce tipuri de citari sunt? independente/directe/etc.
+============
+Capitol 3: mai putin important 
+* evaluarea cadrelor didactice/universitatilor/jurnalelor/conferintelor.
+* pt jurnale si conferinte intereseaza: cum poti obtine o gradatie buna pt jurnal: tb sa aiba citari de nivel inalt din ult 2 ani. 
+Daca un jurnal are citari in alte lucrari noi (2 ani sa zicem), atunci factoru de impact e ridicat pt acel jurnal.
+* Clasificarea individului: cate lucrari are. Ce fel de lucrari are, ce categorie are, cate citari are, care e vizibilitatea omului in planul stiintific
+cate proiecte are, ce fel de proiecte are, ce discururi are si unde (loc faimos), daca are studenti doctoranzi sau doctorati sau postdoc.
+* Clasificarea univ.: impactul stiintific al personalului. Rezultatul/realizarile studentilor care au terminat (programul alumni). Unde au mers sa lucreze, daca au facut stiinta, etc.
+vizibilitatea univ pe plan global (cat de des are colaborari, cat de des apare in news). A descris si cum e favorizata o univ mare:
+programe interuniversitare erasmus like, granturi in legatura cu industria.
+=============
+Cap. 4: tot mai micutz
+Granturi: proiecte de deezvoltare
+Ce fel de granturi exista? ufsd, horizon, proiecte comune cu firme provenit din industrie.
+ori interogati internet, ori notite.
+ufsd sunt si de la guverne/firme.
+horizon sunt intre mai multe universitati. 
+==============
+Cap. 5: etica in cercetare si plagiatul
+Etica: 
+realizez o cercetare care se incadreaza in niste reguli prestabilite. La medicina daca fac anumite experiente cu animale (de unde provin animalele, ce ai facut, ce se intampla cu ele, toate legile 
+sunt respectate in cursu experimentelor pt lucrarea x). 
+Plagiat:
+ce fel de plagiat este? poti sa dai exemple pt asa ceva? Creezi un text in care spui "asta e textu original, copiez de undeva, scrii apoi un text artificial de tine care e plagiat". 
+Daca e direct, repeti acelasi lucru. Dar mai sunt si cele de tipuri mozaic.
