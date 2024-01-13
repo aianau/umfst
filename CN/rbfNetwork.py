@@ -23,15 +23,6 @@ class InitCentersRandom(Initializer):
 
 class RBFLayer(Layer):
     """ Layer of Gaussian RBF units.
-    # Example
-    ```python
-        model = Sequential()
-        model.add(RBFLayer(10,
-                           initializer=InitCentersRandom(X),
-                           betas=1.0,
-                           input_shape=(1,)))
-        model.add(Dense(1))
-    ```
     # Arguments
         output_dim: number of hidden units (i.e. number of outputs of the
                     layer)
@@ -83,11 +74,6 @@ from sklearn.cluster import KMeans
 
 
 class InitCentersKMeans(Initializer):
-    """ Initializer for initialization of centers of RBF network
-        by clustering the given data set.
-    # Arguments
-        X: matrix, dataset
-    """
 
     def __init__(self, X, max_iter=100):
         self.X = X
